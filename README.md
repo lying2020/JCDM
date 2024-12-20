@@ -4,8 +4,6 @@ Joint Conditional Diffusion Model for Image Restoration with Mixed Degradations
 ![method](https://github.com/mengyu212/JCDM/blob/main/fig5.jpg)
 
 ## Train and test
-### dataset
-
 ### training
 For the first stage training, modify the path of the dataset in config/diffusion.json.
 ```
