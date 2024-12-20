@@ -3,8 +3,8 @@ import data as Data
 import model as Model
 import argparse
 import logging
-import core.logger as Logger
-import core.metrics as Metrics
+import utils.logger as Logger
+import utils.metrics as Metrics
 import numpy as np
 import random
 
